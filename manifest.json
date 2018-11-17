@@ -1,0 +1,40 @@
+{
+  "name": "Aratos Trio Official",
+  "short_name": "Aratos Trio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000",
+  "description": "Aratos Trio je kamerni ansambl koji je osnovan 2014. godine...",
+  "icons": [
+  {
+    "src": "images/homescreen48.png",
+    "sizes": "48x50",
+    "type": "image/png"
+  }, 
+  {
+    "src": "images/homescreen/homescreen72.png",
+    "sizes": "72x75",
+    "type": "image/png"
+  }, 
+  {
+    "src": "images/homescreen/homescreen96.png",
+    "sizes": "96x99",
+    "type": "image/png"
+  }, 
+  {
+    "src": "images/homescreen/homescreen144.png",
+    "sizes": "144x149",
+    "type": "image/png"
+  }, 
+  {
+    "src": "images/homescreen/homescreen168.png",
+    "sizes": "168x174",
+    "type": "image/png"
+  }, 
+  {
+    "src": "images/homescreen/homescreen192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }
+  ]
+}
